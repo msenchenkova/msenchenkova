@@ -9,6 +9,7 @@ My name is Margarita, and I am a QA Engineer. Here, I want to share some web and
 * 📑 Сame to QA from document control
 * 📚 My study cases are available on Github
 * 📎 Check out my resume
+* 🇪🇸 Study Spanish in Spanish
 * 🏆 I am squash player, coach, referee 
 
 ### Tools
@@ -57,3 +58,14 @@ My name is Margarita, and I am a QA Engineer. Here, I want to share some web and
 ### Test Artifacts
 
 ### Follow me
+<div style="display: flex; align-items: center;">
+    <a href="https://www.linkedin.com/in/margarita-senchenkova-485ab1290">
+        <img src="https://github.com/msenchenkova/msenchenkova/blob/main/icons/Linkedin.png" alt="LinkedIn" style="width: 40px; height: 40px; margin-right: 10px;">
+    </a>
+    <a href="https://t.me/msenchenkova">
+        <img src="https://github.com/msenchenkova/msenchenkova/blob/main/icons/Telegram.png" alt="Telegram" style="width: 40px; height: 40px; margin-right: 10px;">
+    </a>
+    <a href="mailto:msenchenkova@gmail.com">
+        <img src="https://github.com/msenchenkova/msenchenkova/blob/main/icons/Gmail.png" alt="Gmail" style="width: 40px; height: 40px;">
+    </a>
+</div>
