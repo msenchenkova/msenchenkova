@@ -1,4 +1,4 @@
-![Header](https://github.com/msenchenkova/msenchenkova/blob/main/QA%20cover_msenchenkova.png)
+![Header](https://github.com/msenchenkova/msenchenkova/blob/main/QAcover_git_msenchenkova.png)
 
 ### Hi there 👋
 
