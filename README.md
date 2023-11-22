@@ -1,3 +1,5 @@
+![Header](https://github.com/msenchenkova/msenchenkova/blob/main/QA%20cover_msenchenkova.png)
+
 ### Hi there 👋
 
 My name is Margarita, and I am a QA Engineer. Here, I want to share some web and mobile testing portfolio items gained during my studies
