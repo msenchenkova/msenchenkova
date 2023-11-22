@@ -46,6 +46,7 @@ My name is Margarita, and I am a QA Engineer. Here, I want to share some web and
 * 📱 <a href= "https://github.com/msenchenkova/Yandex-Metro-Android-Application.git">Yandex-Metro Android-Application
 * 🛒 <a href= "https://github.com/msenchenkova/Yandex-Shop-Web-Service.git">Yandex-Shop Web-Service
 * 🛴 <a href= "https://github.com/msenchenkova/Yandex-Scooter-Web-and-Mob-Application.git">Yandex-Scooter Web & Mob Application
+* 🚕 <a href= "https://github.com/msenchenkova/Yandex-Taxi-SQL.git">Yandex-Taxi SQL
 
 ### Follow me
 <a href= "https://www.linkedin.com/in/margarita-senchenkova">
