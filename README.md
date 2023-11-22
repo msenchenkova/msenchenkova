@@ -7,7 +7,7 @@ My name is Margarita, and I am a QA Engineer. Here, I want to share some web and
 * 🌱 I’m currently open to job opportunities as QA Engineer
 * 🤓 Finished <a href="https://drive.google.com/file/d/1F7NgxrbDrdi07seJLKzfb2hrs0tKDQ99/view?usp=sharing"> QA Engineer Professional Training Course
 * 📑 Сame to QA from document control
-* 📚 My study cases are available on Github
+* 📚 My study cases are available on <a href="https://github.com/msenchenkova">Github
 * 📎 Check out my resume
 * 🇪🇸 Study Spanish in Spanish
 * 🏆 I am squash player, coach, referee 
@@ -42,6 +42,10 @@ My name is Margarita, and I am a QA Engineer. Here, I want to share some web and
 
 
 ### Test Artifacts
+* 🌎 <a href= "https://github.com/msenchenkova/Yandex-Maps-Web-Application.git">Yandex-Maps Web-Application
+* 📱 <a href= "https://github.com/msenchenkova/Yandex-Metro-Android-Application.git">Yandex-Metro Android-Application
+* 🛒 <a href= "https://github.com/msenchenkova/Yandex-Shop-Web-Service.git">Yandex-Shop Web-Service
+* 🛴 <a href= "https://github.com/msenchenkova/Yandex-Scooter-Web-and-Mob-Application.git">Yandex-Scooter Web & Mob Application
 
 ### Follow me
 <a href= "https://www.linkedin.com/in/margarita-senchenkova">
