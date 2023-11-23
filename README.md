@@ -43,7 +43,7 @@ My name is Margarita, and I am a QA Engineer. Here, I want to share some web and
 </div>
 
 
-### Test Artifacts
+### My Study Cases
 * 🌎 <a href= "https://github.com/msenchenkova/Yandex-Maps-Web-Application.git">Yandex-Maps Web-Application
 * 📱 <a href= "https://github.com/msenchenkova/Yandex-Metro-Android-Application.git">Yandex-Metro Android-Application
 * 🛒 <a href= "https://github.com/msenchenkova/Yandex-Shop-Web-Service.git">Yandex-Shop Web-Service
