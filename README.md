@@ -10,7 +10,7 @@ My name is Margarita, and I am a QA Engineer. Here, I want to share some web and
 * 🤓 Finished <a href="https://drive.google.com/file/d/1F7NgxrbDrdi07seJLKzfb2hrs0tKDQ99/view?usp=sharing"> QA Engineer Professional Training Course
 * 📑 Сame to QA from document control
 * 📚 My study cases are available on <a href="https://github.com/msenchenkova">Github
-* 📎 Check out my resume
+* 📎 Check out my resume: <a href="https://drive.google.com/file/d/1pD0nNqUVK5b2cPX6BRnWEa99LP7Wsf-F/view?usp=sharing"> CV_rus</a> or <a href="https://drive.google.com/file/d/1Lw5vaDxCS_QI0Hqo3prtawOuWP3BCbZw/view?usp=sharing"> CV_eng</a>
 * 🇪🇸 Study Spanish in Spanish
 * 🏆 I am squash player, coach, referee 
 
